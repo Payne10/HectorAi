@@ -1,5 +1,4 @@
-Here’s a possible README for your HectorAI project:
-HectorAI
+#HectorAI
 
 HectorAI is an advanced home automation system powered by a local LLM (Large Language Model). Utilizing Raspberry Pi nodes, HectorAI listens for voice commands and processes requests via a local LLM server. The system integrates seamlessly with Home Assistant to control smart home devices and interfaces with services running in Docker containers, displaying relevant information on monitors placed throughout the home.
 Features
